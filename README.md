@@ -1,0 +1,1 @@
+# kube_slave_aws
